@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## DoNotMessUp.github.io
+
+Our website!
 
 You can use the [editor on GitHub](https://github.com/DoNotMessUp/DoNotMessUp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
